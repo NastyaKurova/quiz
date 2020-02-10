@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4ce8653-2ef0-4406-b84a-6d042cc0cec4" name="Default Changelist" comment="add question form" />
+    <list default="true" id="b4ce8653-2ef0-4406-b84a-6d042cc0cec4" name="Default Changelist" comment="add question form">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,16 @@
       <workItem from="1581267595411" duration="11185000" />
       <workItem from="1581321015015" duration="930000" />
       <workItem from="1581325765914" duration="722000" />
+      <workItem from="1581328465541" duration="756000" />
     </task>
+    <task id="LOCAL-00001" summary="add question form">
+      <created>1581328545862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581328545862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
