@@ -36,6 +36,6 @@
     transition: opacity .3s;
 }
 
-.Drawer ul li a:hover, .actove {
+.Drawer ul li a:hover, .active {
     opacity: .7;
 }
