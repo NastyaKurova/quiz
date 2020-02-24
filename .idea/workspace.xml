@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a823e3f-d786-472a-ac82-18724a090de0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Select/Select.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/form/formFramework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary/Auxiliary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/axios/axios-quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Loader/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Loader/Loader.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Quiz/Quiz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +68,17 @@
       <workItem from="1582020463283" duration="156000" />
       <workItem from="1582110203270" duration="6273000" />
       <workItem from="1582188572806" duration="28000" />
-      <workItem from="1582311477012" duration="8992000" />
+      <workItem from="1582311477012" duration="12992000" />
+      <workItem from="1582365470845" duration="8620000" />
     </task>
+    <task id="LOCAL-00001" summary="work with forms, create new question">
+      <created>1582321122507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582321122507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="work with forms, create new question" />
+    <option name="LAST_COMMIT_MESSAGE" value="work with forms, create new question" />
   </component>
 </project>
